@@ -1,0 +1,18 @@
+<html>
+<head>
+	<title>Util</title>
+	<script type="text/javascript">
+    var toUtcDate = function(strDate) {
+        return new Date(Date.UTC(parseInt(strDate.substring(0, 4), 10), parseInt(strDate.substring(4, 6), 10) - 1, parseInt(strDate.substring(6, 8)))).getTime();
+    };
+    function getStamp(){
+    	var txtDate = document.getElementById("txtDate").value;
+    	document.getElementById("timestamp").textContent = toUtcDate(txtDate);
+    }
+	</script>
+</head>
+<body>
+<input type="textbox" id="txtDate"><button onclick="getStamp();">Time Stamp</button>
+<div id="timestamp"></div>
+</body>
+</html>

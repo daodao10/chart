@@ -1,0 +1,9 @@
+<div id="ticker">
+    <p class="suggest-symbol">{{=it.c}}</p>
+    <p class="suggest-name">{{=it.n}} ({{=it.cat}})</p>
+</div>
+<div id="visitLabel">
+    {{~it.l :value}}
+    <a class="ui label" href="ts.html#{{=value[0]}}" target="_blank">{{=value[1]}}</a><i class="icon close"></i>
+    {{~}}
+</div>

@@ -1,0 +1,17 @@
+{
+  "name": "chart",
+  "version": "1.0.0",
+  "description": "dao's trend",
+  "main": "s.js",
+  "dependencies": {},
+  "author": "",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.9.0",
+    "gulp-html-minifier": "^0.1.8",
+    "gulp-uglify": "^3.0.0",
+    "run-sequence": "^2.2.0"
+  }
+}

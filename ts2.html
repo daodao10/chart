@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>dao's trend ...</title>
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <link rel="stylesheet" type="text/css" href="assets/semantic/semantic.min.css?v2">
+    <link rel="stylesheet" type="text/css" href="dist/css/t2.css">
+</head>
+
+<body>
+    <div class="ui segment tool-box">
+        <select name="category" id="category">
+            <option value="">-- market --</option>
+        </select>
+        <select name="sector" id="sector">
+            <option value="">-- sector --</option>
+        </select>
+        <select name="symbol" id="symbol">
+            <option value="">-- security --</option>
+        </select>
+        <div class="ui tag left pointing label large" id="security-info">CAPITAL</div>
+        <input type="month" id="startDate" class="form-control"><input type="submit" id="refreshBtn" value="refresh">
+        <div class="ui error hidden compact message margin-top0" id="error-panel">
+            <i class="close icon"></i>
+            <div class="header">Error!</div>
+            <p></p>
+        </div>
+    </div>
+    <div class="ui grid">
+        <div class="three wide column" id="fact-set-0"></div>
+        <div class="thirteen wide column">
+            <div class="ui top attached tabular menu">
+                <a class="item active" data-tab="first">First</a>
+                <a class="item" data-tab="second">Second</a>
+                <a class="item" data-tab="third">Third</a>
+            </div>
+            <div class="ui bottom attached tab segment active" data-tab="first">
+                <div id="fact-chart-0"></div>
+            </div>
+            <div class="ui bottom attached tab segment" data-tab="second" id="fact-set-1"></div>
+            <div class="ui bottom attached tab segment" data-tab="third" id="fact-set-2"></div>
+            <div class="ui segment border0 grid">
+                <div class="eleven wide column" id="fact-chart-1"></div>
+                <div class="five wide column" id="fact-chart-2"></div>
+            </div>
+        </div>
+    </div>
+    <script src="assets/js/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="assets/highcharts/highcharts.js" type="text/javascript" charset="utf-8"></script>
+    <script src="assets/semantic/semantic.min.js"></script>
+    <script src="assets/js/require.min.js" type="text/javascript" data-main="dist/main.ts2.js?v0.162" defer async="true"></script>
+</body>
+
+</html>

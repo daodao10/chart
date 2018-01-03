@@ -1,0 +1,134 @@
+<div class="ui two column grid">
+    <div class="column">
+        <table class="ui celled table">
+            <caption>Graham</caption>
+            <tbody>
+                <tr>
+                    <td>PE</td>
+                    <td>{{=it.fa.ttm.pe.toFixed(2)}}</td>
+                </tr>
+                <tr>
+                    <td>PB</td>
+                    <td>{{=it.fa.ttm.pb.toFixed(2)}}</td>
+                </tr>
+                <tr>
+                    <td><i class="ui help circle icon tooltip" data-content="Earnings Yield"></i>EY</td>
+                    <td>{{=it.fa.ttm.ey.toFixed(2)}}%</td>
+                </tr>
+                <tr>
+                    <td><i class="ui help circle icon tooltip" data-content="the Number = PB * PE"></i>G-Num</td>
+                    <td>{{=it.fa.ttm.n.toFixed(2)}}</td>
+                </tr>
+            </tbody>
+        </table>
+        <table class="ui celled table">
+            <caption>Earning Growth Model</caption>
+            <thead>
+                <tr>
+                    <th>Growth Ratio</th>
+                    <th>PEG</th>
+                    <th>Target</th>
+                    <th>Updated</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    {{~it.fa.peg :value:index}}
+                    <td>{{=value}}</td>
+                    {{~}}
+                </tr>
+                {{if (it.fa.peg1) { }}
+                <tr>
+                    {{~it.fa.peg1 :value:index}}
+                    <td>{{=value}}</td>
+                    {{~}}
+                </tr>
+                {{ } }}
+                {{if (it.fa.peg0) { }}
+                <tr>
+                    {{~it.fa.peg0 :value:index}}
+                    <td>{{=value}}</td>
+                    {{~}}
+                </tr>
+                {{ } }}
+            </tbody>
+        </table>
+    </div>
+    <div class="column">
+        <table class="ui celled table">
+            <caption>ROE Growth Model</caption>
+            <tbody>
+                <tr>
+                    <td>Avg ROE</td>
+                    <td>{{=it.fa.avg.ar}}</td>
+                </tr>
+                <tr>
+                    <td>CRA</td>
+                    <td>{{=it.fa.avg.cra}}</td>
+                </tr>
+                <tr>
+                    <td>CRR</td>
+                    <td>{{=it.fa.avg.crr}}{{? it.fa.avg.crr}}<i class="large arrow {{=it.fa.stylish.avg}} icon"></i>{{?}}</td>
+                </tr>
+                <tr>
+                    <td><i class="ui {{=it.fa.stylish.gap.g1}} circular label tooltip" data-content="Price Gap: Price change from Value-Line = Price / P50 - 1">G1</i></td>
+                    <td>{{=it.fa.gap.g1}}</td>
+                </tr>
+                <tr>
+                    <td><i class="ui {{=it.fa.stylish.gap.g2}} circular label tooltip" data-content="Absolute Gap(Long-Term) = CAGR - AR">G2</i></td>
+                    <td>{{=it.fa.gap.g2}}</td>
+                </tr>
+                <tr>
+                    <td><i class="ui {{=it.fa.stylish.gap.g3}} circular label tooltip" data-content="Absolute Gap(now) = Price Gap - CRA">G3</i></td>
+                    <td>{{=it.fa.gap.g3}}</td>
+                </tr>
+                <tr>
+                    <td><i class="ui {{=it.fa.stylish.gap.g4}} circular label tooltip" data-content="Relative Gap(now) = Price Gap - CRR">G4</i></td>
+                    <td>{{=it.fa.gap.g4}}</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+<table class="ui celled table">
+    <caption>盈利预测 2017</caption>
+    <thead>
+        <tr>
+            <th>研报数</th>
+            <th>买入</th>
+            <th>增持</th>
+            <th>中性</th>
+            <th>减持</th>
+            <th>卖出</th>
+            <th>16 AE</th>
+            <th>17 EE</th>
+            <th>17 PE</th>
+            <th>18 EE</th>
+            <th>18 PE</th>
+            <th>19 EE</th>
+            <th>19 PE</th>
+            <th>更新时间</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            {{~it.fa.ee :value:index}}
+            <td>{{=value}}</td>
+            {{~}}
+        </tr>
+        {{if (it.fa.ee1) { }}
+        <tr>
+            {{~it.fa.ee1 :value:index}}
+            <td>{{=value}}</td>
+            {{~}}
+        </tr>
+        {{ } }}
+        {{if (it.fa.ee0) { }}
+        <tr>
+            {{~it.fa.ee0 :value:index}}
+            <td>{{=value}}</td>
+            {{~}}
+        </tr>
+        {{ } }}
+    </tbody>
+</table>

@@ -1,0 +1,33 @@
+<table class="ui sortable celled table">
+    <thead>
+        <tr>
+            <th data-sort="string">Date</th>
+            <th data-sort="float">Earnings</th>
+            <th data-sort="float">NAV</th>
+            <th data-sort="float">ROE %</th>
+            <th data-sort="float">OCF</th>
+            <th data-sort="float">GPM %</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{~it.ttm :value:index}}
+        <tr>
+            {{~value :value1:index1}} {{if (index1 > 0) { }}
+            <td>{{=value1.toFixed(3)}}</td>
+            {{ } else { }}
+            <td>{{=value1}}</td>
+            {{ } }} {{~}}
+        </tr>
+        {{~}}
+        <!-- <tr><td colspan="6">Last N years</td></tr> -->
+        {{~it.lastn :value:index}}
+        <tr>
+            {{~value :value1:index1}} {{if (index1 > 0) { }}
+            <td>{{=value1.toFixed(3)}}</td>
+            {{ } else { }}
+            <td>{{=value1}}</td>
+            {{ } }} {{~}}
+        </tr>
+        {{~}}
+    </tbody>
+</table>
