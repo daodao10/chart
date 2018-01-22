@@ -332,7 +332,7 @@ require(['u', 't', 'f', 'doT', 'e', 'peg', 'e0', 'peg0', 'e1', 'peg1', 'anounymo
 
                     // filter source data
                     data = data.filter(function (item) {
-                        return item[0] > global.startDate && item[1] > 0.1;
+                        return item[0] > global.startDate;
                     });
 
                     var options = daoU.processData(data, {
