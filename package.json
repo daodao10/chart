@@ -12,6 +12,7 @@
     "gulp-clean-css": "^3.9.0",
     "gulp-html-minifier": "^0.1.8",
     "gulp-uglify": "^3.0.0",
+    "requirejs": "^2.3.5",
     "run-sequence": "^2.2.0"
   }
 }

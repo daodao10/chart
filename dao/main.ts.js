@@ -7,7 +7,7 @@ require.config({
         'anounymous': 'ProtoUtil',
         's-t': '../assets/js/stupidtable.min'
     },
-    urlArgs: "_0.743" // urlArgs: "_" + (new Date()).getTime() // development
+    urlArgs: "_0.744" // urlArgs: "_" + (new Date()).getTime() // development
 }).onError = function (err) {
     console.log(err.requireType);
     if (err.requireType === 'timeout') {
@@ -332,7 +332,7 @@ require(['u', 't', 'f', 'doT', 'e', 'peg', 'e0', 'peg0', 'e1', 'peg1', 'anounymo
 
                     // filter source data
                     data = data.filter(function (item) {
-                        return item[0] > global.startDate && item[1] > 0;
+                        return item[0] > global.startDate && item[1] > 0.1;
                     });
 
                     var options = daoU.processData(data, {
