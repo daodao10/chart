@@ -7,7 +7,7 @@ require.config({
         'anounymous': 'ProtoUtil',
         's-t': '../assets/js/stupidtable.min'
     },
-    urlArgs: "_0.744" // urlArgs: "_" + (new Date()).getTime() // development
+    urlArgs: "_0.747" // urlArgs: "_" + (new Date()).getTime() // development
 }).onError = function (err) {
     console.log(err.requireType);
     if (err.requireType === 'timeout') {
@@ -379,16 +379,21 @@ require(['u', 't', 'f', 'doT', 'e', 'peg', 'e0', 'peg0', 'e1', 'peg1', 'anounymo
 
                             var faFactor = daoU.Calc.fa(taFactorBak, faSerie1.roe);
                             faFactor.ttm = daoU.Calc.gn(taFactorBak, faSerie2);
+
                             // set peg and earning
                             faFactor.peg = daoPEG[datum.c];
-                            updatePEG(faFactor.peg, '201711');
+                            updatePEG(faFactor.peg, '201704');
                             faFactor.ee = daoE[datum.c];
-                            faFactor.peg0 = daoPEG0[datum.c];
-                            updatePEG(faFactor.peg0, '201704');
-                            faFactor.ee0 = daoE0[datum.c];
+                            if (faFactor.ee) faFactor.ee[13] = '201704';
+
                             faFactor.peg1 = daoPEG1[datum.c];
-                            updatePEG(faFactor.peg1, '201612');
+                            updatePEG(faFactor.peg1, '201711');
                             faFactor.ee1 = daoE1[datum.c];
+                            if (faFactor.ee1) faFactor.ee1[13] = '201711';
+
+                            faFactor.peg0 = daoPEG0[datum.c];
+                            updatePEG(faFactor.peg0, '201801');
+                            faFactor.ee0 = daoE0[datum.c];
 
                             $factSet[4].html(populateFa(faFactor))
                                 .find('.tooltip').popup({
