@@ -28,68 +28,68 @@ A ？B ？策略，任你选！
 
 | 代码 | 名称 | 发行日 | 到期日 | 赎回价 | 现价 | 转债价值 | 债券价值 |
 | :--: | :--: | :--: | :--: | ---: | ---: | ---: | ---: |
-| [110030](https://www.jisilu.cn/data/convert_bond_detail/110030) | 格力转债 | 2014-12-25 | 2019-12-25 | 106 | 105.82 | 107.398 | 99.937 |
-| [113008](https://www.jisilu.cn/data/convert_bond_detail/113008) | 电气转债 | 2015-02-02 | 2021-02-02 | 106.6 | 100.05 | 108.961 | 97.657 |
-| [110031](https://www.jisilu.cn/data/convert_bond_detail/110031) | 航信转债 | 2015-06-12 | 2021-06-12 | 107 | 100.87 | 108.224 | 97.64 |
-| [123001](https://www.jisilu.cn/data/convert_bond_detail/123001) | 蓝标转债 | 2015-12-18 | 2021-12-18 | 108 | 99.53 | 111.088 | 96.805 |
-| [110032](https://www.jisilu.cn/data/convert_bond_detail/110032) | 三一转债 | 2016-01-04 | 2022-01-04 | 106 | 117.76 | 109.254 | 94.736 |
-| [110033](https://www.jisilu.cn/data/convert_bond_detail/110033) | 国贸转债 | 2016-01-05 | 2022-01-05 | 108 | 113.12 | 111.047 | 96.34 |
-| [110034](https://www.jisilu.cn/data/convert_bond_detail/110034) | 九州转债 | 2016-01-15 | 2022-01-15 | 108 | 106.01 | 109.793 | 95.304 |
-| [128010](https://www.jisilu.cn/data/convert_bond_detail/128010) | 顺昌转债 | 2016-01-22 | 2022-01-22 | 108 | 107.023 | 111.659 | 96.359 |
-| [113009](https://www.jisilu.cn/data/convert_bond_detail/113009) | 广汽转债 | 2016-01-22 | 2022-01-22 | 106 | 106.47 | 109.43 | 94.465 |
+| [110030](https://www.jisilu.cn/data/convert_bond_detail/110030) | 格力转债 | 2014-12-25 | 2019-12-25 | 106 | 107.63 | 107.337 | 100.086 |
+| [113008](https://www.jisilu.cn/data/convert_bond_detail/113008) | 电气转债 | 2015-02-02 | 2021-02-02 | 106.6 | 100.53 | 108.868 | 97.806 |
+| [110031](https://www.jisilu.cn/data/convert_bond_detail/110031) | 航信转债 | 2015-06-12 | 2021-06-12 | 107 | 101.78 | 108.083 | 97.79 |
+| [123001](https://www.jisilu.cn/data/convert_bond_detail/123001) | 蓝标转债 | 2015-12-18 | 2021-12-18 | 108 | 99.601 | 110.948 | 96.953 |
+| [110032](https://www.jisilu.cn/data/convert_bond_detail/110032) | 三一转债 | 2016-01-04 | 2022-01-04 | 106 | 123.56 | 109.117 | 94.877 |
+| [110033](https://www.jisilu.cn/data/convert_bond_detail/110033) | 国贸转债 | 2016-01-05 | 2022-01-05 | 108 | 120.67 | 110.916 | 96.488 |
+| [110034](https://www.jisilu.cn/data/convert_bond_detail/110034) | 九州转债 | 2016-01-15 | 2022-01-15 | 108 | 109.57 | 109.72 | 95.446 |
+| [113009](https://www.jisilu.cn/data/convert_bond_detail/113009) | 广汽转债 | 2016-01-22 | 2022-01-22 | 106 | 112.15 | 109.294 | 94.605 |
+| [128010](https://www.jisilu.cn/data/convert_bond_detail/128010) | 顺昌转债 | 2016-01-22 | 2022-01-22 | 108 | 108.249 | 111.513 | 96.503 |
 | 2年内 |
-| [113010](https://www.jisilu.cn/data/convert_bond_detail/113010) | 江南转债 | 2016-03-18 | 2022-03-18 | 108 | 103.52 | 108.332 | 96.373 |
-| [128012](https://www.jisilu.cn/data/convert_bond_detail/128012) | 辉丰转债 | 2016-04-21 | 2022-04-21 | 103 | 95.1 | 103.63 | 91.355 |
-| [127003](https://www.jisilu.cn/data/convert_bond_detail/127003) | 海印转债 | 2016-06-08 | 2022-06-08 | 110 | 92.95 | 111.052 | 97.411 |
-| [128013](https://www.jisilu.cn/data/convert_bond_detail/128013) | 洪涛转债 | 2016-07-29 | 2022-07-29 | 108 | 92.53 | 109.497 | 95.105 |
-| [113011](https://www.jisilu.cn/data/convert_bond_detail/113011) | 光大转债 | 2017-03-17 | 2023-03-17 | 105 | 111.92 | 105.202 | 90.42 |
-| [113012](https://www.jisilu.cn/data/convert_bond_detail/113012) | 骆驼转债 | 2017-03-23 | 2023-03-24 | 105 | 95.93 | 105.242 | 90.017 |
-| [128014](https://www.jisilu.cn/data/convert_bond_detail/128014) | 永东转债 | 2017-04-17 | 2023-04-17 | 108 | 100.82 | 108.52 | 93.056 |
-| [127004](https://www.jisilu.cn/data/convert_bond_detail/127004) | 模塑转债 | 2017-06-02 | 2023-06-02 | 110 | 93.04 | 110.873 | 94.221 |
-| [128015](https://www.jisilu.cn/data/convert_bond_detail/128015) | 久其转债 | 2017-06-08 | 2023-06-08 | 108 | 96.74 | 108.658 | 91.72 |
-| [113013](https://www.jisilu.cn/data/convert_bond_detail/113013) | 国君转债 | 2017-07-07 | 2023-07-06 | 105 | 107.04 | 105.81 | 89.349 |
+| [113010](https://www.jisilu.cn/data/convert_bond_detail/113010) | 江南转债 | 2016-03-18 | 2022-03-18 | 108 | 103.7 | 108.211 | 96.517 |
+| [128012](https://www.jisilu.cn/data/convert_bond_detail/128012) | 辉丰转债 | 2016-04-21 | 2022-04-21 | 103 | 96.879 | 103.508 | 91.491 |
+| [127003](https://www.jisilu.cn/data/convert_bond_detail/127003) | 海印转债 | 2016-06-08 | 2022-06-08 | 110 | 93.18 | 110.928 | 97.561 |
+| [128013](https://www.jisilu.cn/data/convert_bond_detail/128013) | 洪涛转债 | 2016-07-29 | 2022-07-29 | 108 | 93.023 | 109.375 | 95.247 |
+| [113011](https://www.jisilu.cn/data/convert_bond_detail/113011) | 光大转债 | 2017-03-17 | 2023-03-17 | 105 | 116.43 | 105.125 | 90.555 |
+| [113012](https://www.jisilu.cn/data/convert_bond_detail/113012) | 骆驼转债 | 2017-03-23 | 2023-03-24 | 105 | 97.81 | 105.163 | 90.155 |
+| [128014](https://www.jisilu.cn/data/convert_bond_detail/128014) | 永东转债 | 2017-04-17 | 2023-04-17 | 108 | 103.092 | 108.414 | 93.195 |
+| [127004](https://www.jisilu.cn/data/convert_bond_detail/127004) | 模塑转债 | 2017-06-02 | 2023-06-02 | 110 | 94.419 | 110.767 | 94.362 |
+| [128015](https://www.jisilu.cn/data/convert_bond_detail/128015) | 久其转债 | 2017-06-08 | 2023-06-08 | 108 | 100.8 | 108.58 | 91.86 |
+| [113013](https://www.jisilu.cn/data/convert_bond_detail/113013) | 国君转债 | 2017-07-07 | 2023-07-06 | 105 | 108.99 | 105.734 | 89.482 |
 | 6个月内 |
-| [128016](https://www.jisilu.cn/data/convert_bond_detail/128016) | 雨虹转债 | 2017-09-25 | 2023-09-25 | 106 | 112.2 | 107.253 | 89.05 |
-| [113014](https://www.jisilu.cn/data/convert_bond_detail/113014) | 林洋转债 | 2017-10-27 | 2023-10-27 | 106 | 102.03 | 107.43 | 89.165 |
-| [128017](https://www.jisilu.cn/data/convert_bond_detail/128017) | 金禾转债 | 2017-11-01 | 2023-11-01 | 106 | 112.85 | 107.458 | 88.694 |
-| [113015](https://www.jisilu.cn/data/convert_bond_detail/113015) | 隆基转债 | 2017-11-02 | 2023-11-01 | 106 | 113.99 | 107.458 | 88.694 |
-| [113016](https://www.jisilu.cn/data/convert_bond_detail/113016) | 小康转债 | 2017-11-06 | 2023-11-06 | 106 | 95.92 | 107.484 | 89.071 |
-| [128018](https://www.jisilu.cn/data/convert_bond_detail/128018) | 时达转债 | 2017-11-06 | 2023-11-06 | 106 | 94.125 | 107.484 | 89.071 |
-| [128019](https://www.jisilu.cn/data/convert_bond_detail/128019) | 久立转2 | 2017-11-08 | 2023-11-08 | 106 | 94.79 | 107.496 | 88.628 |
-| [113502](https://www.jisilu.cn/data/convert_bond_detail/113502) | 嘉澳转债 | 2017-11-10 | 2023-11-09 | 108 | 98.71 | 109.802 | 90.826 |
-| [110038](https://www.jisilu.cn/data/convert_bond_detail/110038) | 济川转债 | 2017-11-13 | 2022-11-12 | 100 | 108.53 | 101.214 | 85.646 |
-| [110039](https://www.jisilu.cn/data/convert_bond_detail/110039) | 宝信转债 | 2017-11-17 | 2023-11-16 | 106 | 114.65 | 107.539 | 88.552 |
-| [128020](https://www.jisilu.cn/data/convert_bond_detail/128020) | 水晶转债 | 2017-11-17 | 2023-11-16 | 108 | 93.6 | 109.539 | 89.543 |
-| [123002](https://www.jisilu.cn/data/convert_bond_detail/123002) | 国祯转债 | 2017-11-24 | 2023-11-24 | 106 | 105.616 | 107.584 | 88.476 |
-| [110040](https://www.jisilu.cn/data/convert_bond_detail/110040) | 生益转债 | 2017-11-24 | 2023-11-23 | 106 | 108.07 | 107.578 | 88.486 |
-| [128021](https://www.jisilu.cn/data/convert_bond_detail/128021) | 兄弟转债 | 2017-11-28 | 2023-11-28 | 106 | 99.707 | 107.606 | 88.437 |
-| [128022](https://www.jisilu.cn/data/convert_bond_detail/128022) | 众信转债 | 2017-12-01 | 2023-12-01 | 106 | 110.26 | 107.621 | 88.41 |
-| [128024](https://www.jisilu.cn/data/convert_bond_detail/128024) | 宁行转债 | 2017-12-05 | 2023-12-05 | 105 | 113.84 | 106.315 | 87.203 |
-| [128025](https://www.jisilu.cn/data/convert_bond_detail/128025) | 特一转债 | 2017-12-06 | 2023-12-06 | 106 | 97.831 | 107.649 | 88.361 |
-| [128023](https://www.jisilu.cn/data/convert_bond_detail/128023) | 亚太转债 | 2017-12-08 | 2023-12-08 | 108 | 92.998 | 109.659 | 90.355 |
-| [123003](https://www.jisilu.cn/data/convert_bond_detail/123003) | 蓝思转债 | 2017-12-08 | 2023-12-08 | 106 | 95.159 | 107.659 | 88.344 |
-| [128026](https://www.jisilu.cn/data/convert_bond_detail/128026) | 众兴转债 | 2017-12-13 | 2023-12-13 | 106 | 94.113 | 108.025 | 88.905 |
-| [113503](https://www.jisilu.cn/data/convert_bond_detail/113503) | 泰晶转债 | 2017-12-15 | 2023-12-15 | 108 | 100.14 | 110.037 | 90.478 |
-| [128027](https://www.jisilu.cn/data/convert_bond_detail/128027) | 崇达转债 | 2017-12-15 | 2023-12-15 | 106 | 98.46 | 107.698 | 88.698 |
-| [123004](https://www.jisilu.cn/data/convert_bond_detail/123004) | 铁汉转债 | 2017-12-18 | 2023-12-18 | 106 | 99.797 | 107.715 | 88.247 |
-| [123005](https://www.jisilu.cn/data/convert_bond_detail/123005) | 万信转债 | 2017-12-19 | 2023-12-19 | 107 | 105.7 | 108.719 | 89.035 |
-| [123006](https://www.jisilu.cn/data/convert_bond_detail/123006) | 东财转债 | 2017-12-20 | 2023-12-20 | 107 | 109.801 | 108.38 | 88.219 |
-| [128028](https://www.jisilu.cn/data/convert_bond_detail/128028) | 赣锋转债 | 2017-12-21 | 2023-12-21 | 106 | 101.98 | 107.732 | 87.783 |
-| [110041](https://www.jisilu.cn/data/convert_bond_detail/110041) | 蒙电转债 | 2017-12-21 | 2023-12-21 | 106 | 99 | 108.078 | 88.828 |
-| [128029](https://www.jisilu.cn/data/convert_bond_detail/128029) | 太阳转债 | 2017-12-22 | 2022-12-22 | 106 | 126 | 107.388 | 89.905 |
-| [128030](https://www.jisilu.cn/data/convert_bond_detail/128030) | 天康转债 | 2017-12-22 | 2023-12-22 | 108 | 103.4 | 109.736 | 90.221 |
-| [110042](https://www.jisilu.cn/data/convert_bond_detail/110042) | 航电转债 | 2017-12-25 | 2023-12-24 | 105 | 100.21 | 106.747 | 87.72 |
-| [128032](https://www.jisilu.cn/data/convert_bond_detail/128032) | 双环转债 | 2017-12-25 | 2023-12-25 | 106 | 97.8 | 107.754 | 88.601 |
-| [128033](https://www.jisilu.cn/data/convert_bond_detail/128033) | 迪龙转债 | 2017-12-27 | 2023-12-27 | 106 | 96.56 | 107.764 | 88.164 |
-| [113017](https://www.jisilu.cn/data/convert_bond_detail/113017) | 吉视转债 | 2017-12-27 | 2023-12-27 | 106 | 98.06 | 107.764 | 88.164 |
-| [123007](https://www.jisilu.cn/data/convert_bond_detail/123007) | 道氏转债 | 2017-12-28 | 2023-12-28 | 107 | 108.01 | 109.477 | 89.746 |
-| [113018](https://www.jisilu.cn/data/convert_bond_detail/113018) | 常熟转债 | 2018-01-19 | 2024-01-19 | 106 | 103.2 | 107.89 | 87.346 |
-| [128034](https://www.jisilu.cn/data/convert_bond_detail/128034) | 江银转债 | 2018-01-26 | 2024-01-26 | 106 | 100 | 107.927 | 87.281 |
-| [110043](https://www.jisilu.cn/data/convert_bond_detail/110043) | 无锡转债 | 2018-01-30 | 2024-01-30 | 100 | 100 | 101.95 | 82.497 |
-| [123008](https://www.jisilu.cn/data/convert_bond_detail/123008) | 康泰转债 | 2018-02-01 | 2024-02-01 | 106 | 100 | 107.961 | 88.24 |
-| [128035](https://www.jisilu.cn/data/convert_bond_detail/128035) | 大族转债 | 2018-02-06 | 2024-02-06 | 105 | 100 | 106.591 | 86.094 |
+| [128016](https://www.jisilu.cn/data/convert_bond_detail/128016) | 雨虹转债 | 2017-09-25 | 2023-09-25 | 106 | 119.001 | 107.178 | 89.183 |
+| [113014](https://www.jisilu.cn/data/convert_bond_detail/113014) | 林洋转债 | 2017-10-27 | 2023-10-27 | 106 | 107.9 | 107.353 | 89.298 |
+| [128017](https://www.jisilu.cn/data/convert_bond_detail/128017) | 金禾转债 | 2017-11-01 | 2023-11-01 | 106 | 126.022 | 107.379 | 88.83 |
+| [113015](https://www.jisilu.cn/data/convert_bond_detail/113015) | 隆基转债 | 2017-11-02 | 2023-11-01 | 106 | 118.05 | 107.379 | 88.83 |
+| [113016](https://www.jisilu.cn/data/convert_bond_detail/113016) | 小康转债 | 2017-11-06 | 2023-11-06 | 106 | 96.65 | 107.407 | 89.204 |
+| [128018](https://www.jisilu.cn/data/convert_bond_detail/128018) | 时达转债 | 2017-11-06 | 2023-11-06 | 106 | 94.934 | 107.407 | 89.204 |
+| [128019](https://www.jisilu.cn/data/convert_bond_detail/128019) | 久立转2 | 2017-11-08 | 2023-11-08 | 106 | 95.168 | 107.42 | 88.761 |
+| [113502](https://www.jisilu.cn/data/convert_bond_detail/113502) | 嘉澳转债 | 2017-11-10 | 2023-11-09 | 108 | 98.71 | 109.708 | 90.965 |
+| [110038](https://www.jisilu.cn/data/convert_bond_detail/110038) | 济川转债 | 2017-11-13 | 2022-11-12 | 100 | 115.83 | 101.153 | 85.774 |
+| [110039](https://www.jisilu.cn/data/convert_bond_detail/110039) | 宝信转债 | 2017-11-17 | 2023-11-16 | 106 | 123.01 | 107.464 | 88.684 |
+| [128020](https://www.jisilu.cn/data/convert_bond_detail/128020) | 水晶转债 | 2017-11-17 | 2023-11-16 | 108 | 96.57 | 109.464 | 89.676 |
+| [110040](https://www.jisilu.cn/data/convert_bond_detail/110040) | 生益转债 | 2017-11-24 | 2023-11-23 | 106 | 110.81 | 107.501 | 88.618 |
+| [123002](https://www.jisilu.cn/data/convert_bond_detail/123002) | 国祯转债 | 2017-11-24 | 2023-11-24 | 106 | 109.058 | 107.505 | 88.611 |
+| [128021](https://www.jisilu.cn/data/convert_bond_detail/128021) | 兄弟转债 | 2017-11-28 | 2023-11-28 | 106 | 101.756 | 107.527 | 88.573 |
+| [128022](https://www.jisilu.cn/data/convert_bond_detail/128022) | 众信转债 | 2017-12-01 | 2023-12-01 | 106 | 117.012 | 107.546 | 88.542 |
+| [128024](https://www.jisilu.cn/data/convert_bond_detail/128024) | 宁行转债 | 2017-12-05 | 2023-12-05 | 105 | 121.35 | 106.254 | 87.333 |
+| [128025](https://www.jisilu.cn/data/convert_bond_detail/128025) | 特一转债 | 2017-12-06 | 2023-12-06 | 106 | 99.32 | 107.572 | 88.496 |
+| [128023](https://www.jisilu.cn/data/convert_bond_detail/128023) | 亚太转债 | 2017-12-08 | 2023-12-08 | 108 | 94.04 | 109.584 | 90.49 |
+| [123003](https://www.jisilu.cn/data/convert_bond_detail/123003) | 蓝思转债 | 2017-12-08 | 2023-12-08 | 106 | 98.45 | 107.584 | 88.476 |
+| [128026](https://www.jisilu.cn/data/convert_bond_detail/128026) | 众兴转债 | 2017-12-13 | 2023-12-13 | 106 | 96.663 | 107.931 | 89.041 |
+| [113503](https://www.jisilu.cn/data/convert_bond_detail/113503) | 泰晶转债 | 2017-12-15 | 2023-12-15 | 108 | 104.41 | 109.946 | 90.613 |
+| [128027](https://www.jisilu.cn/data/convert_bond_detail/128027) | 崇达转债 | 2017-12-15 | 2023-12-15 | 106 | 103.79 | 107.621 | 88.83 |
+| [123004](https://www.jisilu.cn/data/convert_bond_detail/123004) | 铁汉转债 | 2017-12-18 | 2023-12-18 | 106 | 102.195 | 107.638 | 88.382 |
+| [123005](https://www.jisilu.cn/data/convert_bond_detail/123005) | 万信转债 | 2017-12-19 | 2023-12-19 | 107 | 110.302 | 108.644 | 89.167 |
+| [123006](https://www.jisilu.cn/data/convert_bond_detail/123006) | 东财转债 | 2017-12-20 | 2023-12-20 | 107 | 114.02 | 108.319 | 88.351 |
+| [110041](https://www.jisilu.cn/data/convert_bond_detail/110041) | 蒙电转债 | 2017-12-21 | 2023-12-21 | 106 | 101.2 | 107.984 | 88.964 |
+| [128028](https://www.jisilu.cn/data/convert_bond_detail/128028) | 赣锋转债 | 2017-12-21 | 2023-12-21 | 106 | 114.24 | 107.653 | 87.917 |
+| [128030](https://www.jisilu.cn/data/convert_bond_detail/128030) | 天康转债 | 2017-12-22 | 2023-12-22 | 108 | 104.55 | 109.659 | 90.355 |
+| [128029](https://www.jisilu.cn/data/convert_bond_detail/128029) | 太阳转债 | 2017-12-22 | 2022-12-22 | 106 | 139.112 | 107.327 | 90.039 |
+| [110042](https://www.jisilu.cn/data/convert_bond_detail/110042) | 航电转债 | 2017-12-25 | 2023-12-24 | 105 | 103.81 | 106.672 | 87.851 |
+| [128032](https://www.jisilu.cn/data/convert_bond_detail/128032) | 双环转债 | 2017-12-25 | 2023-12-25 | 106 | 98.521 | 107.676 | 88.736 |
+| [113017](https://www.jisilu.cn/data/convert_bond_detail/113017) | 吉视转债 | 2017-12-27 | 2023-12-27 | 106 | 100.41 | 107.687 | 88.295 |
+| [128033](https://www.jisilu.cn/data/convert_bond_detail/128033) | 迪龙转债 | 2017-12-27 | 2023-12-27 | 106 | 100.56 | 107.687 | 88.295 |
+| [123007](https://www.jisilu.cn/data/convert_bond_detail/123007) | 道氏转债 | 2017-12-28 | 2023-12-28 | 107 | 117.36 | 109.371 | 89.88 |
+| [113018](https://www.jisilu.cn/data/convert_bond_detail/113018) | 常熟转债 | 2018-01-19 | 2024-01-19 | 106 | 106.13 | 107.813 | 87.477 |
+| [128034](https://www.jisilu.cn/data/convert_bond_detail/128034) | 江银转债 | 2018-01-26 | 2024-01-26 | 106 | 98.2 | 107.852 | 87.411 |
+| [110043](https://www.jisilu.cn/data/convert_bond_detail/110043) | 无锡转债 | 2018-01-30 | 2024-01-30 | 100 | 100 | 101.873 | 82.62 |
+| [123008](https://www.jisilu.cn/data/convert_bond_detail/123008) | 康泰转债 | 2018-02-01 | 2024-02-01 | 106 | 100 | 107.884 | 88.375 |
+| [128035](https://www.jisilu.cn/data/convert_bond_detail/128035) | 大族转债 | 2018-02-06 | 2024-02-06 | 105 | 100 | 106.529 | 86.226 |
 
-###### 更新日期：2018-02-09
+###### 更新日期：2018-02-23
 
 ### 参考：
 
@@ -102,4 +102,3 @@ A ？B ？策略，任你选！
 > - [为什么可转债能保底，仍然有人说亏损？](http://blog.sina.com.cn/s/blog_537d5dc501011uh9.html)
 > - [天风证券：可转债介绍与分析框架](http://bond.jrj.com.cn/2017/08/21163922973789.shtml)
 >
-
