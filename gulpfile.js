@@ -1,38 +1,42 @@
-var gulp = require('gulp'),
-    sequence = require('run-sequence'),
-    uglify = require('gulp-uglify'),
-    cleanCSS = require('gulp-clean-css'),
-    htmlMin = require('gulp-html-minifier');
+const { src, dest, series } = require("gulp");
+const uglify = require("gulp-uglify"),
+  cleanCSS = require("gulp-clean-css"),
+  htmlMin = require("gulp-html-minifier");
 
+function clean() {
+  // do some clean...
+  console.log("go ==>");
+  return Promise.resolve("...");
+}
 
-gulp.task('default', function () {
-    console.log('go ==>');
-    sequence(['minify-js', 'minify-tmpl', 'minify-css']);
-});
+function minifyJs() {
+  return src("dao/*.js")
+    .pipe(uglify())
+    .pipe(dest("dist"));
+}
 
-gulp.task('minify-js', function () {
-    gulp.src('dao/*.js')
-        .pipe(uglify())
-        .pipe(gulp.dest('dist'));
-});
+function minifyTmpl() {
+  return src("dao/tmpl/*.html")
+    .pipe(
+      htmlMin({
+        collapseWhitespace: true,
+        removeComments: true,
+        ignoreCustomFragments: [/\{\{\?[\s\S]*?\}\}/]
+        // trimCustomFragments: true
+      })
+    )
+    .pipe(dest("dist/tmpl"));
+}
 
-gulp.task('minify-tmpl', function () {
-    gulp.src('dao/tmpl/*.html')
-        .pipe(htmlMin({
-            collapseWhitespace: true,
-            removeComments: true,
-            ignoreCustomFragments: [/\{\{\?[\s\S]*?\}\}/],
-            // trimCustomFragments: true
-        }))
-        .pipe(gulp.dest('dist/tmpl'));
-});
-
-gulp.task('minify-css', function () {
-    gulp.src('dao/css/*.css')
-        .pipe(cleanCSS({ compatibility: 'ie8' }))
-        .pipe(gulp.dest('dist/css'));
-});
+function minifyCss() {
+  return src("dao/css/*.css")
+    .pipe(cleanCSS({ compatibility: "ie8" }))
+    .pipe(dest("dist/css"));
+}
 
 // gulp.task('watch', function(){
 //     gulp.watch('dao/tmpl/*.html',['minify-tmpl']);
 // });
+
+exports.build = series(clean, minifyJs, minifyTmpl, minifyCss);
+exports.default = clean
