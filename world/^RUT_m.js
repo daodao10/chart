@@ -1,2 +1,2 @@
 var data=[];
-var source='finance.yahoo.com';
+var source='stooq.com';
