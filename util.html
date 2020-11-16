@@ -5,14 +5,23 @@
     var toUtcDate = function(strDate) {
         return new Date(Date.UTC(parseInt(strDate.substring(0, 4), 10), parseInt(strDate.substring(4, 6), 10) - 1, parseInt(strDate.substring(6, 8)))).getTime();
     };
+    var decodeUtcDate = function(timestamp) {
+        document.getElementById("timestamp").textContent = '';
+        var txtDate = document.getElementById("txtDate").value;
+        document.getElementById("dateLable").textContent = new Date(parseInt(txtDate, 10)).toLocaleDateString();
+    }
     function getStamp(){
+        document.getElementById("dateLable").textContent  = '';
     	var txtDate = document.getElementById("txtDate").value;
-    	document.getElementById("timestamp").textContent = toUtcDate(txtDate);
+        document.getElementById("timestamp").textContent = toUtcDate(txtDate);
     }
 	</script>
 </head>
 <body>
-<input type="textbox" id="txtDate"><button onclick="getStamp();">Time Stamp</button>
+<input type="textbox" id="txtDate">
+<button onclick="getStamp();">Time Stamp</button>
+<button onclick="decodeUtcDate()">Decode Timestamp</button>
 <div id="timestamp"></div>
+<div id="dateLable"></div>
 </body>
 </html>
